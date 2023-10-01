@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-    cout<<"hello welcome 3";
+    cout<<"version 2";
 }
